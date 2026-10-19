@@ -1,6 +1,8 @@
 # TP02-PHP-SABAR-HAJAR
 Module: Programmation Web 2 - 2026/2027
-Nom: sabar  Prénom: hajar   Groupe: 02
+Nom: sabar 
+Prénom: hajar  
+Groupe: 02
 
 ## Liste des exercices
 - ex01: affichage
